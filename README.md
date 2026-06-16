@@ -2,12 +2,12 @@
 - test_contact-form
 
 ## 環境構築
-- Dockerビルド
-  ・git@github.com:noguchi-makiho/test_contact-form.git
-  ・docker-compose up -d --build
+Dockerビルド
+- git@github.com:noguchi-makiho/test_contact-form.git
+- docker-compose up -d --build
 
-- Laravel環境構築
-　・
+Laravel環境構築
+
 
 ## 使用技術
 
